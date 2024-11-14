@@ -816,13 +816,16 @@ users:
   - https://github.com/opensourceways/reproducible-backend
 
 - name: 'Jiaheng Song'
-  gitee_id: 'MaskerPRC'
+  gitee_id: 'martinissong'
   github_id: 'MaskerPRC'
   repos:
   - https://github.com/openmerlin/space-server-monitor
   - https://github.com/openmerlin/space-server
   - https://github.com/openmerlin/image-build-tool
   - https://github.com/openmerlin/space-k8s-operator
+  - https://gitee.com/modelers/space-server
+  - https://gitee.com/modelers/flexcompute-server
+  - https://gitee.com/modelers/space-k8s-operator
 
 - name: 'Jixiang Li'
   gitee_id: 'G-Sacker'
@@ -861,9 +864,6 @@ users:
     - https://github.com/openmerlin/flexcompute-server
     - https://github.com/openmerlin/flexcompute-sdk
     - https://github.com/openmerlin/openmind-resource-template
-    - https://gitee.com/modelers/flexcompute-sdk
-    - https://gitee.com/modelers/flexcompute-server
-    - https://github.com/opensourceways/ai-proxy
 
 - name: 'Xinyue Zhang'
   gitee_id: 'hfadzxy'
@@ -1031,19 +1031,9 @@ users:
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
 
-
-- name: 'Zhihang Deng'
-  gitee_id: 'zhihang161013'
-  github_id: 'zhihang161013'
-  repos:
-  - https://github.com/zhihang161013/opea-openeuler
-  - https://gitee.com/openeuler/openeuler-docker-images
-  - https://gitee.com/openeuler/eulerpublisher
-  
 - name: 'Jiahao Chen'
   gitee_id: 'jiahaochen666'
   github_id: 'jiahaochen666'
   repos:
   - https://gitee.com/mindspore/mindspore
   - https://github.com/mindspore-lab/mindocr
-
